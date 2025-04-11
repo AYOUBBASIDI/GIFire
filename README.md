@@ -4,6 +4,12 @@ The chaotic energy of your meme dreams — now at your sticky fingertips. Summon
 
 ---
 
+[![Open Source](https://img.shields.io/badge/Open%20Source-GitHub-blue)](https://github.com/AYOUBBASIDI/GIFire)
+[![VirusTotal Clean](https://img.shields.io/badge/VirusTotal-100%25%20Clean-brightgreen)](https://www.virustotal.com/gui/url/4728d62d5164c8e88a637db92b277b7017de6115db0f5fa1e6f7c498b7234343/detection)
+[![Version](https://img.shields.io/badge/Version-0.0.0-blue)]()
+[![Downloads](https://img.shields.io/github/downloads/AYOUBBASIDI/GIFire/total)]()
+
+
 ## ✨ Features (because apparently "basic human decency" wasn't enough)
 
 - 🚀 **Summon the Mighty Overlay** (`Alt+A` unless you enjoy pain)
