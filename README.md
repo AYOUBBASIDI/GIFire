@@ -73,7 +73,7 @@ Because empty cups don't fuel chaotic good projects.
 
 ## 📜 License
 
-MIT License — the "sure, do whatever" of licenses.
+[MIT](https://github.com/AYOUBBASIDI/GIFire?tab=MIT-1-ov-file) License — the "sure, do whatever" of licenses.
 Tinker, ruin, rebuild. Go nuts.
 
 ---
